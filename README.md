@@ -1,4 +1,4 @@
-[![MasterHead](https://adesahost.com/images/icons/adesahost_wallpaper.png)
+![MasterHead](https://adesahost.com/images/icons/adesahost_wallpaper.png)
 <h1 align="center">Hi 👋, I'm Viexsa</h1>
 <h3 align="center">I am dealing with Web Hosting, Server Hosting, Game Server Hosting in Turkey.</h3>
 
