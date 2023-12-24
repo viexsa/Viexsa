@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Viexsa</h1>
 <h3 align="center">I am dealing with Web Hosting, Server Hosting, Game Server Hosting in Turkey.</h3>
 
-- 👨‍💻 All of my projects are available at [I do all kinds of work about servers.](I do all kinds of work about servers.)
+- 👨‍💻 All of my projects are available at [I do all kinds of work about servers.]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
