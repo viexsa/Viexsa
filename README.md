@@ -1,9 +1,14 @@
 ![MasterHead](https://adesahost.com/images/icons/adesahost_wallpaper.png)
-<h1>Hey, I'm Viexsa! 👋</h1>
+<h1 align="center">Hey, I'm Viexsa! 👋</h1>
 <h3 align="center">I'm Viexsa, I'm a student of Electrical Electronics and I aim to improve myself in this field, and I will be presenting my projects to you throughout my development.</h3>
 
 <h3>About Me</h3>
-&#46; 👨‍💻 
+- 👨‍💻 I currently know a few programming languages such as Python, MicroPython and I continue to improve myself.
+
+<h3>Connect with Me</h3>
+
+📧 You can contact me on <p href="https://discord.gg/EGFR5BWJzT">Discord</p>. (Username: viexsa).
+🌐 Explore more about my work at RaxeBot and OceanBilisim.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
