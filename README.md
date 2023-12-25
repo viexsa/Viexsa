@@ -1,6 +1,6 @@
 ![MasterHead](https://adesahost.com/images/icons/adesahost_wallpaper.png)
-<h1 align="center">Hi 👋, I'm Viexsa</h1>
-<h3 align="center">I am dealing with Web Hosting, Server Hosting, Game Server Hosting in Turkey.</h3>
+<h1>Hey, I'm Viexsa! 👋</h1>
+<h3 align="center">I'm Viexsa, I'm a student of Electrical Electronics and I aim to improve myself in this field, and I will be presenting my projects to you throughout my development.</h3>
 
 - 👨‍💻 All of my projects are available at [I do all kinds of work about servers.]
 
