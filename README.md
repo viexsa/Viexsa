@@ -2,7 +2,8 @@
 <h1>Hey, I'm Viexsa! 👋</h1>
 <h3 align="center">I'm Viexsa, I'm a student of Electrical Electronics and I aim to improve myself in this field, and I will be presenting my projects to you throughout my development.</h3>
 
-- 👨‍💻 All of my projects are available at [I do all kinds of work about servers.]
+<h3>About Me</h3>
+- 👨‍💻 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
