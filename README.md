@@ -3,9 +3,7 @@
 <h3 align="center">I'm Viexsa, I'm a student of Electrical Electronics and I aim to improve myself in this field, and I will be presenting my projects to you throughout my development.</h3>
 
 <h3>About Me</h3>
-::marker {
-  color: red;
-} 👨‍💻 
+&#1793; 👨‍💻 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
