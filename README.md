@@ -1,4 +1,3 @@
-![MasterHead](https://adesahost.com/images/icons/adesahost_wallpaper.png)
 <h1 align="center">Hey, I'm Viexsa! 👋</h1>
 <h3 align="center">I'm Viexsa, I'm a student of Electrical Electronics and I aim to improve myself in this field, and I will be presenting my projects to you throughout my development.</h3>
 
