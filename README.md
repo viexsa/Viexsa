@@ -7,8 +7,7 @@
 
 <h3>Connect with Me</h3>
 
-📧 You can contact me on <p href="https://discord.gg/EGFR5BWJzT">Discord</p>. (Username: viexsa).
-🌐 Explore more about my work at RaxeBot and OceanBilisim.
+📧 You can contact me on <a href="https://discord.gg/EGFR5BWJzT">Discord</a>. (Username: viexsa)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
